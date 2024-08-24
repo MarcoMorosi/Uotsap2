@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uotsap 2</string>
+    <string name="WelcomeBig">Benvenuto in Uotsap 2!</string>
+    <string name="WelcomeScript">Sembra che nessun account sia collegato a questo dispositivo...\nVorresti crearne uno ora?</string>
+    <string name="WelcomeButtonYes">Sì!</string>
+    <string name="WelcomeButtonNo">no</string>
+    <string name="WelcomeButtonAlready">Ho già un account.</string>
+    <string name="ErrorAut">Nome utente o password non validi.</string>
+    <string name="Login">Accedi</string>
+    <string name="DontHaveAnAccount_SignUp">Non hai un account? Registrati</string>
+    <string name="Username">Nome Utente</string>
+    <string name="Register">Registrati</string>
+    <string name="AlreadyHaveAnAccount_Login">Hai già un account? Accedi</string>
+    <string name="RageSpeech">D\'accordo, io c\'ho provato a essere paziente, ma questo è ridicolo. Chi credi di far ridere con queste fesserie? Basta così, mo c\'hai 10 secondi per farti sto account prima che l\'app si chiuda.</string>
+    <string name="ISubmit">Scusami</string>
+    <string name="NoSharePassword">Non condividere questa password con nessuno.</string>
+    <string name="ConfirmPassword">Conferma password</string>
+    <string name="ConfirmPasswordError">Le due password non corrispondono.</string>
+    <string name="BadCharactersError">Non puoi lasciare questi spazi vuoti o usare spazi nel nome utente.</string>
+    <string name="ShowPassword">Mostra la password</string>
+    <string name="AlreadyExistentUsername">Questo nome utente già esiste. Vuoi accedere?</string>
+    <string name="LoggedInAs">Accesso effettuato come: %1$s</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">Uotsap 2</string>
+    <string name="WelcomeBig">Welcome to Uotsap 2!</string>
+    <string name="WelcomeScript">It appears that no accounts are linked to this device...\nWould you like to create one now?</string>
+    <string name="WelcomeButtonYes">Yeah!</string>
+    <string name="WelcomeButtonNo">no</string>
+    <string name="WelcomeButtonAlready">I already have an account.</string>
+    <string name="ErrorAut">Invalid username or password.</string>
+    <string name="Login">Login</string>
+    <string name="DontHaveAnAccount_SignUp">Don\'t have an account? Sign Up</string>
+    <string name="Username">Username</string>
+    <string name="Register">Register</string>
+    <string name="AlreadyHaveAnAccount_Login">Already have an account? Login</string>
+    <string name="RageSpeech">Alright, I\’ve been patient, but this is getting ridiculous. Who do you think you are with this nonsense? Stop with the jokes. You have 10 seconds to create the account before the app closes.</string>
+    <string name="ISubmit">I\'m sorry</string>
+    <string name="NoSharePassword">Do not share this password with anyone.</string>
+    <string name="ConfirmPassword">Confirm password</string>
+    <string name="ConfirmPasswordError">The two passwords do not match.</string>
+    <string name="BadCharactersError">You cannot leave these spaces blank or use spaces in the username.</string>
+    <string name="ShowPassword">Show the password</string>
+    <string name="AlreadyExistentUsername">This username already exists. Login?</string>
+    <string name="LoggedInAs">Logged in as: %1$s</string>
+</resources>
